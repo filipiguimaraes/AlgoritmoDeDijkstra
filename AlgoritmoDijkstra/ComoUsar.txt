@@ -1,0 +1,12 @@
+Na pasta do projeto existe um arquivo chamado entrada.txt, esse arquivo é a entrada da
+matriz dos pesos das arestas do seu Grafo, preencha-o com os respectivos pesos, lembrando
+de dar o peso de -1 para os vértices que não são adjacentes e de separar todos os pesos
+com 'ESPAÇO', isso é crucial para o funcionamento do programa!
+A mesma pasta dispõe do arquivo exemplo.txt, cujo desmonstra como deve ser essa
+entrada.
+Ao executar o programa, será solicitado o vértice inicial do seu Grafo.
+O programa retornará a matriz dos pesos e o peso de um caminho de peso mínimo
+ligando vértice de origem a cada vertice do Grafo.
+Os vertices serao denominados 1,2,3... para n Vertices.
+Para calcular outro caminho no mesmo Grafo basta retornar ao menu principal e alterar
+o vertice de origem.
